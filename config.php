@@ -17,11 +17,11 @@ $rodape_relatorios = "Desenvolvido por Kevyn B. Ladislau";
 $servidor = 'localhost';
 $usuario = 'root';
 $senha = '';
-$banco = 'u389246411_rpsystem';
-// $servidor = "localhost";
-// $usuario = "u389246411_werpsystem";
-// $senha = "oFHWSSQeGd6~";
-// $banco = "u389246411_rpsystem";
+$banco = 'rpsystem';
+// // $servidor = "localhost";
+// // $usuario = "u389246411_werpsystem";
+// // $senha = "oFHWSSQeGd6~";
+// // $banco = "u389246411_rpsystem";
 
 //Globais
 $valor_desconto = 5;

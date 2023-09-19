@@ -6,7 +6,7 @@ $query = $pdo->query("SELECT * FROM usuarios where nivel = 'admin'");
 $res = $query->fetchAll(PDO::FETCH_ASSOC);
 $total_reg = @count($res);
 if($total_reg == 0){
-	$res = $pdo->query("INSERT INTO usuarios SET nome = 'Administrador', cpf = '000.000.000-01', email = '$email_rp', senha = '123', nivel = 'admin'");
+	$res = $pdo->query("INSERT INTO usuarios SET nome = 'Administrador', cpf = '000.000.000-01', email = 'admin', senha = '123', nivel = 'admin'");
 	//$res_func = $pdo->query("INSERT INTO funcionarios SET nome = 'Administrador', cpf = '000.000.000-01', email = 'admin'");	
 }
 
