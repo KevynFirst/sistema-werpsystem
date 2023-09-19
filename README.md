@@ -34,7 +34,7 @@
 - [Javascript](https://www.javascript.com)
 - [jquery](https://jquery.com/)
 - [PhpMyAdmin](https://www.phpmyadmin.net/)
-- [bootstrap 4](https://fontawesome.com/)
+- [bootstrap 4](https://getbootstrap.com)
 
 <h2 align="center">⚡️ Demonstração</h2>
 <p>Para testar o projeto, deve primeiramente baixar o <a href="https://www.apachefriends.org/pt_br/download.html">xampp</a> </p>
