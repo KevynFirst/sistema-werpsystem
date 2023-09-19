@@ -7,13 +7,13 @@
 <h2 align="center">🖥Preview</h2>
 
 ##### Tela de Login
-<img src="images\loginwe.jpg" alt="Preview desktop"></img>
+<img src="images/loginwe.jpg" alt="Preview desktop"></img>
 
 ##### Tela de Administração
-<img src="images\paineladm.jpg" alt="Preview desktop"></img>
+<img src="images/paineladm.jpg" alt="Preview desktop"></img>
 
 ##### Tela de Relátorio
-<img src="images\relatorio.jpg" alt="Preview desktop"></img>
+<img src="images/relatorio.jpg" alt="Preview desktop"></img>
 
 <h2 align="center">🖥Funcionalidades do Projeto</h2>
 
