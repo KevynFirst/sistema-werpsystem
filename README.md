@@ -38,6 +38,7 @@
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://www.javascript.com)
 - [jquery](https://jquery.com/)
+- [PHP](https://www.php.net/)
 - [PhpMyAdmin](https://www.phpmyadmin.net/)
 - [bootstrap 4](https://getbootstrap.com)
 
