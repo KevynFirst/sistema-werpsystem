@@ -1,6 +1,7 @@
 <h1 align="center">.:| SISTEMA AUTOMAÇÃO COMERCIAL |:.</h1>
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Personal-Project-orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Dev-Project-purple">
 </p>
 <br>
 
